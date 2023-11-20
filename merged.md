@@ -49,7 +49,10 @@ $
 
 Por lo tanto:
 
-$\frac{a^3 b^4 c^7}{a^{-2}b^5\sqrt{c}}$ se puede expresar como $a^5 \cdot  b^{-1} \cdot c^{\frac{13}{2}}$
+$\frac{a^3 b^4 c^7}{a^{-2}b^5\sqrt{c}}$ se puede expresar como $\boxed{a^5 \cdot  b^{-1} \cdot c^{\frac{13}{2}}}$
+
+
+---
 
 ### Ejercicio 2
 
@@ -74,9 +77,9 @@ $\frac{2^3 3^2}{3^2 2} = 3^{-1}\cdot 2^2 = \frac{1}{3} \cdot 4$
 
 :
 
-$\frac{2^3 3^2}{3^2 2} = \frac{4}{3}$
+$\boxed{\frac{2^3 3^2}{3^2 2} = \frac{4}{3}}$
 
-
+---
 
 ### Ejercicio 3
 
@@ -119,8 +122,9 @@ $= \frac{32}{351}$
 Por tanto:
 
 
-$(\frac{(2\frac{3}{5}:3)^{-1}}{(\frac{9}{4})^{2}(\frac{2}{5})^{-1}}) = \frac{32}{351}$
+$\boxed{(\frac{(2\frac{3}{5}:3)^{-1}}{(\frac{9}{4})^{2}(\frac{2}{5})^{-1}}) = \frac{32}{351}}$
 
+---
 
 ### Ejercicio 4
 
@@ -147,6 +151,8 @@ $\cdot$
 
 $\boxed{y=4}$
 
+
+---
 
 ### Ejercicio 5
 
@@ -175,4 +181,37 @@ $log_{10}(2√2) = 1.3010$
 
 Por tanto:
 
-$log_{10}\sqrt[4]{8} = 1.3010$
+$\boxed{log_{10}\sqrt[4]{8} = 1.3010}$
+
+
+---
+
+### Ejercicio 6
+
+Convierte los siguientes ángulos de radiantes a grados sexagesimales: $3rad$, $\frac{2\pi}{5} rad$, $\frac{3\pi}{20} rad$
+
+
+#### Solución:
+
+
+$grados = \frac{180}{\pi} \cdot radianes$
+
+
+- $3rad$
+
+$= \frac{180}{3.14} \cdot 3 $
+
+$= \frac{540}{3.14}$
+
+$ = 171.887^\circ$
+
+
+- $\frac{2\pi}{5} rad$
+
+$= \frac{180}{\pi} \cdot \frac{2\pi}{5}$
+
+$= \frac{180 \cdot 2\pi}{5 \cdot \pi}$
+
+$= \frac{360}{5}$
+
+$= 72^\circ$
